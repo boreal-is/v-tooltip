@@ -1,35 +1,17 @@
 <template>
 	<div class="v-popover" :class="cssClass">
-		<span
-			ref="trigger"
-			class="trigger"
-			style="display: inline-block;"
-			:aria-describedby="popoverId"
-			:tabindex="trigger.indexOf('focus') !== -1 ? 0 : -1"
-		>
-			<slot />
+		<span ref="trigger" class="trigger" style="display: inline-block;" :aria-describedby="popoverId" :tabindex="trigger.indexOf('focus') !== -1 ? 0 : -1">
+			<slot/>
 		</span>
-
-		<div
-			ref="popover"
-			:id="popoverId"
-			:class="[popoverBaseClass, popoverClass, cssClass]"
-			:style="{
+		<div ref="popover" :id="popoverId" :class="[popoverBaseClass, popoverClass, cssClass]" :style="{
 				visibility: isOpen ? 'visible' : 'hidden',
-			}"
-			:aria-hidden="isOpen ? 'false' : 'true'"
-		>
+			}" :aria-hidden="isOpen ? 'false' : 'true'">
 			<div :class="popoverWrapperClass">
-				<div
-					ref="inner"
-					:class="popoverInnerClass"
-					style="position: relative;"
-				>
+				<div ref="inner" :class="popoverInnerClass" style="position: relative;">
 					<div>
-						<slot name="popover" />
+						<slot name="popover"/>
 					</div>
-
-					<ResizeObserver v-if="handleResize" @notify="$_handleResize" />
+					<ResizeObserver v-if="handleResize" @notify="$_handleResize"/>
 				</div>
 				<div ref="arrow" :class="popoverArrowClass"></div>
 			</div>

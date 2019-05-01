@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="102b8063-aaed-4a5d-acf7-a6c4a3a43aed" name="Default Changelist" comment="" />
+    <list default="true" id="102b8063-aaed-4a5d-acf7-a6c4a3a43aed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rollup.config.base.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/rollup.config.base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rollup.config.browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/rollup.config.browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rollup.config.es.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/rollup.config.es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rollup.config.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/rollup.config.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/CodeSnippet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/CodeSnippet.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/Collapse.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/Collapse.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/ExampleComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/ExampleComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/PageHome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/PageHome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/PageInstall.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/PageInstall.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/PageTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/PageTable.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/style/imports.scss" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/style/imports.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/style/md-colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/style/md-colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/style/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/style/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/src/style/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/docs-src/style/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-src/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/v-tooltip.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/v-tooltip.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/v-tooltip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/v-tooltip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/v-tooltip.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/v-tooltip.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/0.build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/0.build.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Popover.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popover.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/directives/v-close-popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/directives/v-close-popover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/directives/v-tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/directives/v-tooltip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/directives/v-tooltip.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/directives/v-tooltip.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/tooltip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/jest-setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/jest-setup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="272">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
                 <element signature="e#0#72#0" expanded="true" />
               </folding>
@@ -28,17 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/build.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret column="57124" selection-start-column="57124" selection-end-column="57124" />
+            <state relative-caret-position="204">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -46,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yarn.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="556" column="73" selection-start-line="556" selection-start-column="64" selection-end-line="556" selection-end-column="73" />
+            <state relative-caret-position="27801">
+              <caret line="2183" column="73" selection-start-line="2183" selection-start-column="73" selection-end-line="2183" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -64,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lib/tooltip.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="134" column="33" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
+            <state relative-caret-position="250">
+              <caret line="137" column="33" selection-start-line="137" selection-start-column="33" selection-end-line="137" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -76,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Popover.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="180" column="16" selection-start-line="180" selection-start-column="16" selection-end-line="180" selection-end-column="16" />
+            <state relative-caret-position="-393">
+              <caret line="179" column="24" selection-start-line="179" selection-start-column="24" selection-end-line="179" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -85,8 +126,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/rollup.config.base.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="27" column="22" selection-start-line="27" selection-end-line="28" />
+            <state relative-caret-position="282">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -102,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/v-tooltip.umd.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            <state relative-caret-position="323">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -119,6 +160,7 @@
       <find>conso</find>
       <find>.transform</find>
       <find>transform</find>
+      <find>wat</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,8 +169,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Popover.vue" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/Popover.vue" />
       </list>
     </option>
   </component>
@@ -197,6 +239,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -232,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556721025822</updated>
-      <workItem from="1556721027090" duration="4700000" />
+      <workItem from="1556721027090" duration="5259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4700000" />
+    <option name="totallyTimeSpent" value="5259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
@@ -293,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="272">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="e#0#72#0" expanded="true" />
           </folding>
@@ -303,8 +346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/v-tooltip.umd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        <state relative-caret-position="323">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -313,8 +356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lib/tooltip.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="134" column="33" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
+        <state relative-caret-position="250">
+          <caret line="137" column="33" selection-start-line="137" selection-start-column="33" selection-end-line="137" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -323,15 +366,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Popover.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="180" column="16" selection-start-line="180" selection-start-column="16" selection-end-line="180" selection-end-column="16" />
+        <state relative-caret-position="-393">
+          <caret line="179" column="24" selection-start-line="179" selection-start-column="24" selection-end-line="179" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/rollup.config.base.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="27" column="22" selection-start-line="27" selection-end-line="28" />
+        <state relative-caret-position="282">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -347,8 +390,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yarn.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="556" column="73" selection-start-line="556" selection-start-column="64" selection-end-line="556" selection-end-column="73" />
+        <state relative-caret-position="27801">
+          <caret line="2183" column="73" selection-start-line="2183" selection-start-column="73" selection-end-line="2183" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -361,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>

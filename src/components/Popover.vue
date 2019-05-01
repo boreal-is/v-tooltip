@@ -60,6 +60,10 @@ export default {
 			type: Boolean,
 			default: false,
 		},
+		updated: {
+			type: Boolean,
+			default: false,
+		},
 		placement: {
 			type: String,
 			default: () => getDefault('defaultPlacement'),
@@ -157,6 +161,12 @@ export default {
 				} else if (this.open) {
 					this.show()
 				}
+			}
+		},
+
+		updated () {
+			if(this.popperInstance) {
+				this.popperInstance.scheduleUpdate();
 			}
 		},
 
